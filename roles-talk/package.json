@@ -1,0 +1,16 @@
+{
+  "name": "roles-talk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reveal": "reveal-md code-roles-deck.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "reveal-md": "^6.1.3"
+  }
+}
