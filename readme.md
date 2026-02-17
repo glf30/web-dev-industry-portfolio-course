@@ -51,7 +51,6 @@ There are many different roles and responsibilities in the web development indus
 
 The web development industry is constantly evolving, with new technologies and trends emerging all the time. We'll learn about the latest trends and technologies in web development, including:
 
-- Test-Driven Development
 - Types in JavaScript/React/TypeScript
 
 ##### Skills and Tools
