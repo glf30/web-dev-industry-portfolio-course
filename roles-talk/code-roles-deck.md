@@ -48,7 +48,7 @@ Front-End Developers
 - **Tools & Technologies:**
   - **Frameworks:** React, Angular, Vue.js
   - **Design Tools:** Figma, Sketch
-  - **Build Tools:** Webpack, Sass
+  - **Build Tools:** Vite, Sass
 
 ---
 
