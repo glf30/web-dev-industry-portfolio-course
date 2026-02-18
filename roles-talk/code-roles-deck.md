@@ -4,12 +4,6 @@ Colin Jaffe
 
 Noble Desktop
 
----
-
-![](./assets/sdlc.png)
-
----
-
 #### No One Role
 
 There are many, many possible roles a developer can have. We'll discuss a few, looking at what their needs, expectations, and focuses are.
