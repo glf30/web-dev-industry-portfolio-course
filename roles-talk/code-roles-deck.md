@@ -46,7 +46,7 @@ Front-End Developers
   - Knowledge of front-end frameworks (React, Angular, Vue.js).
   - Understanding of responsive design and cross-browser compatibility.
 - **Tools & Technologies:**
-  - **Frameworks:** React, Angular, Vue.js
+  - **Frameworks:** React, Angular, Vue.js, Tailwind
   - **Design Tools:** Figma, Sketch
   - **Build Tools:** Vite, Sass
 
